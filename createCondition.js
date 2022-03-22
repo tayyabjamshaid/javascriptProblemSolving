@@ -18,6 +18,6 @@ for(let i=1;i<=n;i++){
 //Print even numbers
 for (let j=1;j<100;j++){
   if(j%2==0){
-    console.log(j)
+    console.log( j)
   }
 }
