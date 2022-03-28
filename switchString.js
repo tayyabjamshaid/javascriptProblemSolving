@@ -1,7 +1,7 @@
 //agr upcoming string {a,e,i,o,u} sy start hu rhi ha tu A display kro
 //agr upcoming string {b,c,d,f,g} sy start hu rhi ha tu B display kro
-//agr upcoming string {h,j,k,l,m} sy start hu rhi ha tu B display kro
-//agr upcoming string {n,p,q,r,s,t,v,w,x,y,z} sy start hu rhi ha tu B display kro
+//agr upcoming string {h,j,k,l,m} sy start hu rhi ha tu C display kro
+//agr upcoming string {n,p,q,r,s,t,v,w,x,y,z} sy start hu rhi ha tu D display kro
 
 
 'use strict';
